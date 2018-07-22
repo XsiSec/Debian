@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://openbox.org/">
+  <menu id="root-menu" label="Applications">
+    <item label="File Manager" icon="/home/xsisec/.config/obmenu-generator/icons/a384074033dfc3ebebb1a8a39d2be8a6.png"><action name="Execute"><command><![CDATA[xdg-open .]]></command></action></item>
+    <item label="Terminal" icon="/home/xsisec/.config/obmenu-generator/icons/677c1725c42ed0c02eac7ef43c310d91.png"><action name="Execute"><command><![CDATA[lxterminal]]></command></action></item>
+    <item label="Web Browser" icon="/home/xsisec/.config/obmenu-generator/icons/0fd14be8770af75716427df2c3a3194a.png"><action name="Execute"><command><![CDATA[xdg-open http://]]></command></action></item>
+    <item label="Run command" icon="/home/xsisec/.config/obmenu-generator/icons/75a67767299530cac90d76a36547c619.png"><action name="Execute"><command><![CDATA[gmrun]]></command></action></item>
+  <separator label="Categories"/>
+  <menu id="0.32693085081792" icon="/home/xsisec/.config/obmenu-generator/icons/14ccfd60064d61cfc7da4145731d45f2.png" label="Accessories">
+    <item label="Application Finder" icon="/home/xsisec/.config/obmenu-generator/icons/3a22a463ea122f5ee7d62a9a485605ef.png"><action name="Execute"><command><![CDATA[xfce4-appfinder]]></command></action></item>
+    <item label="compton" icon="/home/xsisec/.config/obmenu-generator/icons/79706a0a3833a8b5a372c19635a63d02.png"><action name="Execute"><command><![CDATA[compton]]></command></action></item>
+    <item label="File Manager PCManFM" icon="/home/xsisec/.config/obmenu-generator/icons/a384074033dfc3ebebb1a8a39d2be8a6.png"><action name="Execute"><command><![CDATA[pcmanfm]]></command></action></item>
+    <item label="nitrogen" icon="/home/xsisec/.config/obmenu-generator/icons/dc07ea0146d8fe8408ee1b3a35dded2d.png"><action name="Execute"><command><![CDATA[nitrogen]]></command></action></item>
+    <item label="Run Program..." icon="/home/xsisec/.config/obmenu-generator/icons/75a67767299530cac90d76a36547c619.png"><action name="Execute"><command><![CDATA[xfce4-appfinder --collapsed]]></command></action></item>
+    <item label="UXTerm" icon="/home/xsisec/.config/obmenu-generator/icons/c41a9631a41abd65a3ec973922274bf7.png"><action name="Execute"><command><![CDATA[uxterm]]></command></action></item>
+    <item label="Vim" icon="/home/xsisec/.config/obmenu-generator/icons/9f954f62b318e85d9716dec7d44b1f3b.png"><action name="Execute"><command><![CDATA[xterm -e 'vim']]></command></action></item>
+    <item label="XTerm" icon="/home/xsisec/.config/obmenu-generator/icons/c41a9631a41abd65a3ec973922274bf7.png"><action name="Execute"><command><![CDATA[xterm]]></command></action></item>
+  </menu>
+  <menu id="0.876915176722349" icon="/home/xsisec/.config/obmenu-generator/icons/63af62d6fc07c9f972fc1dd332484a40.png" label="Development">
+    <item label="Geany" icon="/home/xsisec/.config/obmenu-generator/icons/ea8896e1f32148a85124ce6ee6f8335a.png"><action name="Execute"><command><![CDATA[geany]]></command></action></item>
+  </menu>
+  <menu id="0.413107237118435" icon="/home/xsisec/.config/obmenu-generator/icons/88d45fe59e05c5b23cc06c0dce0f8952.png" label="Multimedia">
+    <item label="PulseAudio Volume Control" icon="/home/xsisec/.config/obmenu-generator/icons/2eea2378cb3ea6ab5652225217137f86.png"><action name="Execute"><command><![CDATA[pavucontrol]]></command></action></item>
+  </menu>
+  <menu id="0.358680074658828" icon="/home/xsisec/.config/obmenu-generator/icons/672b28ed83879592c24a7f31510e5ac6.png" label="Network">
+    <item label="Firefox ESR" icon="/home/xsisec/.config/obmenu-generator/icons/83d1c4182d70e9a9cfdbde5fd149fdb4.png"><action name="Execute"><command><![CDATA[/usr/lib/firefox-esr/firefox-esr]]></command></action></item>
+    <item label="Google Chrome" icon="/home/xsisec/.config/obmenu-generator/icons/6cd2c4c6e1bb6a1e939d1bfbfc7f6d08.png"><action name="Execute"><command><![CDATA[/usr/bin/google-chrome-stable]]></command></action></item>
+    <item label="Iceweasel→Firefox ESR" icon="/home/xsisec/.config/obmenu-generator/icons/83d1c4182d70e9a9cfdbde5fd149fdb4.png"><action name="Execute"><command><![CDATA[firefox-esr]]></command></action></item>
+  </menu>
+  <menu id="0.464737565617799" icon="/home/xsisec/.config/obmenu-generator/icons/fc3f239d041b05a6f4b03e3f805b52b2.png" label="Settings">
+    <item label="Customize Look and Feel" icon="/home/xsisec/.config/obmenu-generator/icons/e78761fff5163d9375641f2e09fc0d77.png"><action name="Execute"><command><![CDATA[lxappearance]]></command></action></item>
+    <item label="Desktop Preferences" icon="/home/xsisec/.config/obmenu-generator/icons/5f0f6874c7c8259f9c1588fe6a39a841.png"><action name="Execute"><command><![CDATA[pcmanfm --desktop-pref]]></command></action></item>
+    <item label="NVIDIA X Server Settings" icon="/home/xsisec/.config/obmenu-generator/icons/89ffecf94d6a3e91e2ed842da2d4b210.png"><action name="Execute"><command><![CDATA[nvidia-settings]]></command></action></item>
+    <item label="Openbox Configuration Manager" icon="/home/xsisec/.config/obmenu-generator/icons/61f3de6fd06f9847e869878302ba1980.png"><action name="Execute"><command><![CDATA[obconf]]></command></action></item>
+    <item label="Tint2 Settings" icon="/home/xsisec/.config/obmenu-generator/icons/0be5750489f781c4564da6a37d7a46f3.png"><action name="Execute"><command><![CDATA[tint2conf]]></command></action></item>
+  </menu>
+  <menu id="0.673290072460063" icon="/home/xsisec/.config/obmenu-generator/icons/c7760407f7fd4609b6fc88303ca38742.png" label="System">
+    <item label="File Manager PCManFM" icon="/home/xsisec/.config/obmenu-generator/icons/a384074033dfc3ebebb1a8a39d2be8a6.png"><action name="Execute"><command><![CDATA[pcmanfm]]></command></action></item>
+    <item label="GDebi Package Installer" icon="/home/xsisec/.config/obmenu-generator/icons/91b6fa364b97acb2f40439e5f4eed38c.png"><action name="Execute"><command><![CDATA[gdebi-gtk]]></command></action></item>
+    <item label="LXTerminal" icon="/home/xsisec/.config/obmenu-generator/icons/1fc73518425ab06d5b20f4eb3f74b3db.png"><action name="Execute"><command><![CDATA[lxterminal]]></command></action></item>
+    <item label="NVIDIA X Server Settings" icon="/home/xsisec/.config/obmenu-generator/icons/89ffecf94d6a3e91e2ed842da2d4b210.png"><action name="Execute"><command><![CDATA[nvidia-settings]]></command></action></item>
+    <item label="Reportbug" icon="/home/xsisec/.config/obmenu-generator/icons/9bccc96276955c9d0b7d2e5284ea8ebe.png"><action name="Execute"><command><![CDATA[reportbug --exit-prompt --ui gtk2]]></command></action></item>
+    <item label="Root Terminal" icon="/home/xsisec/.config/obmenu-generator/icons/a69343ae1ce7a24877021a3d74b47aa4.png"><action name="Execute"><command><![CDATA[gksu /usr/bin/x-terminal-emulator]]></command></action></item>
+    <item label="Tint2" icon="/home/xsisec/.config/obmenu-generator/icons/24cb55d56ac5899ea0062f572d90bc20.png"><action name="Execute"><command><![CDATA[tint2]]></command></action></item>
+    <item label="UXTerm" icon="/home/xsisec/.config/obmenu-generator/icons/c41a9631a41abd65a3ec973922274bf7.png"><action name="Execute"><command><![CDATA[uxterm]]></command></action></item>
+    <item label="XTerm" icon="/home/xsisec/.config/obmenu-generator/icons/c41a9631a41abd65a3ec973922274bf7.png"><action name="Execute"><command><![CDATA[xterm]]></command></action></item>
+  </menu>
+  <separator/>
+  <menu id="0.350445290931329" icon="/home/xsisec/.config/obmenu-generator/icons/1d04abde9d640cde340f7ede0fb1f823.png" label="Advanced Settings">
+    <item label="Conky RC" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.conkyrc]]></command></action></item>
+    <item label="Tint2 Panel" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/tint2/tint2rc]]></command></action></item>
+  <menu id="0.998581443255794" icon="/home/xsisec/.config/obmenu-generator/icons/17e3c7a7b078a9003c7a25583dc89a0b.png" label="Obmenu-Generator">
+    <item label="Menu Schema" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/obmenu-generator/schema.pl]]></command></action></item>
+    <item label="Menu Config" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/obmenu-generator/config.pl]]></command></action></item>
+  <separator/>
+    <item label="Generate a static menu" icon="/home/xsisec/.config/obmenu-generator/icons/17e3c7a7b078a9003c7a25583dc89a0b.png"><action name="Execute"><command><![CDATA[obmenu-generator -s -c]]></command></action></item>
+    <item label="Generate a static menu with icons" icon="/home/xsisec/.config/obmenu-generator/icons/17e3c7a7b078a9003c7a25583dc89a0b.png"><action name="Execute"><command><![CDATA[obmenu-generator -s -i -c]]></command></action></item>
+  <separator/>
+    <item label="Generate a dynamic menu" icon="/home/xsisec/.config/obmenu-generator/icons/17e3c7a7b078a9003c7a25583dc89a0b.png"><action name="Execute"><command><![CDATA[obmenu-generator -p]]></command></action></item>
+    <item label="Generate a dynamic menu with icons" icon="/home/xsisec/.config/obmenu-generator/icons/17e3c7a7b078a9003c7a25583dc89a0b.png"><action name="Execute"><command><![CDATA[obmenu-generator -p -i]]></command></action></item>
+  <separator/>
+    <item label="Refresh cache" icon="/home/xsisec/.config/obmenu-generator/icons/0d3dfd63e106b9729536e30d9c695d7c.png"><action name="Execute"><command><![CDATA[obmenu-generator -d]]></command></action></item>
+  </menu>
+  <menu id="0.994044816578398" icon="/home/xsisec/.config/obmenu-generator/icons/cbd33e85d4e0834359519a4e282b2aeb.png" label="Openbox">
+    <item label="Openbox Autostart" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/autostart]]></command></action></item>
+    <item label="Openbox RC" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/rc.xml]]></command></action></item>
+    <item label="Openbox Menu" icon="/home/xsisec/.config/obmenu-generator/icons/341aa0a0062f2022c8a762ca1a82bd39.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/menu.xml]]></command></action></item>
+    <item label="Reconfigure Openbox" icon="/home/xsisec/.config/obmenu-generator/icons/cbd33e85d4e0834359519a4e282b2aeb.png"><action name="Execute"><command><![CDATA[openbox --reconfigure]]></command></action></item>
+    <item label="Restart Openbox" icon="/home/xsisec/.config/obmenu-generator/icons/cbd33e85d4e0834359519a4e282b2aeb.png"><action name="Execute"><command><![CDATA[openbox --restart]]></command></action></item>
+  </menu>
+  </menu>
+  <separator/>
+    <item label="Lock" icon="/home/xsisec/.config/obmenu-generator/icons/4c8321a75ca583aed86fefc054a0d4cf.png"><action name="Execute"><command><![CDATA[xscreensaver-command -lock]]></command></action></item>
+    <item label="Exit" icon="/home/xsisec/.config/obmenu-generator/icons/c936b54235305d41078efea52be5342e.png"><action name="Exit"/></item>
+  </menu>
+</openbox_menu>
