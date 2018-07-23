@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Nightmare</name>
+    <name>xfzen green</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -196,14 +196,14 @@
       </action>
     </keybind>
     <keybind key="W-e">
-  <action name="Execute">
-    <command>pcmanfm</command>
-    <startupnotify>
-      <enabled>yes</enabled>
-      <name>Pcmanfm</name>
-    </startupnotify>
-  </action>
-</keybind>
+      <action name="Execute">
+        <command>pcmanfm</command>
+        <startupnotify>
+          <enabled>yes</enabled>
+          <name>Pcmanfm</name>
+        </startupnotify>
+      </action>
+    </keybind>
     <keybind key="C-A-Right">
       <action name="GoToDesktop">
         <to>right</to>
