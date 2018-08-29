@@ -1,0 +1,72 @@
+**** BEGIN LOGGING AT Sun Aug 26 12:38:50 2018
+
+Aug 26 12:38:50 -->	You are now talking on #debian
+Aug 26 12:38:50 ---	Topic for #debian is Debian Stretch: /msg dpkg stretch ; /msg dpkg 9.5 ; /msg dpkg jessie->stretch ; /msg dpkg install stretch | Oldstable: Debian Jessie /msg dpkg jessie ; /msg dpkg 8.11 | NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic | testing, unstable: #debian-next @ irc.oftc.net | chanlogs: /msg dpkg irclog
+Aug 26 12:38:50 ---	Topic for #debian set by jelly!jelly@pdpc/supporter/active/jelly at Thu Jul 19 07:07:38 2018
+Aug 26 12:38:51 -ChanServ-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+Aug 26 12:38:51 *	Channel #debian url: http://www.debian.org
+Aug 26 12:39:07 FiSHLiM plugin unloaded
+Aug 26 12:39:07 Python interface unloaded
+**** ENDING LOGGING AT Sun Aug 26 12:39:07 2018
+
+**** BEGIN LOGGING AT Sun Aug 26 12:39:57 2018
+
+Aug 26 12:39:57 -->	You are now talking on #debian
+Aug 26 12:39:57 ---	Topic for #debian is Debian Stretch: /msg dpkg stretch ; /msg dpkg 9.5 ; /msg dpkg jessie->stretch ; /msg dpkg install stretch | Oldstable: Debian Jessie /msg dpkg jessie ; /msg dpkg 8.11 | NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic | testing, unstable: #debian-next @ irc.oftc.net | chanlogs: /msg dpkg irclog
+Aug 26 12:39:57 ---	Topic for #debian set by jelly!jelly@pdpc/supporter/active/jelly at Thu Jul 19 07:07:38 2018
+Aug 26 12:39:58 -ChanServ-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+Aug 26 12:39:58 *	Channel #debian url: http://www.debian.org
+Aug 26 12:40:58 <--	brontosaurusrex has quit (Quit: brontosaurusrex)
+Aug 26 12:41:55 <--	timahvo1 has quit (Ping timeout: 244 seconds)
+Aug 26 12:42:53 <--	OxFEEDBACC has quit (Remote host closed the connection)
+Aug 26 12:42:58 -->	timahvo1 (~rogue@41.90.60.214) has joined #debian
+Aug 26 12:43:22 -->	OxFEEDBACC (~what@unaffiliated/oxfeedbacc) has joined #debian
+Aug 26 12:46:50 <--	Zvmdyv has quit (Remote host closed the connection)
+Aug 26 12:47:03 -->	ntd (~ntd@gateway/tor-sasl/ntd) has joined #debian
+Aug 26 12:47:53 <--	timahvo1 has quit (Ping timeout: 268 seconds)
+Aug 26 12:48:17 -->	timahvo1 (~rogue@41.90.60.214) has joined #debian
+Aug 26 12:49:36 -->	ChmEarl (~chmearl@unaffiliated/prymar56) has joined #debian
+Aug 26 12:49:37 -->	Gerowen (~Gerowen@172.97.28.56) has joined #debian
+Aug 26 12:53:05 <--	vbutnaru has quit (Quit: Leaving)
+Aug 26 12:53:26 <--	Tarrasquero has quit (Ping timeout: 268 seconds)
+Aug 26 12:54:03 -->	Tarrasquero (~Tarrasque@unaffiliated/tarrasquero) has joined #debian
+Aug 26 12:54:22 <--	nix64bit has quit (Quit: nix64bit)
+Aug 26 12:54:25 -->	inlakin (~root@185.128.25.52) has joined #debian
+Aug 26 12:54:47 -->	Mr-Potter (~Mr-Potter@204.157.7.51.dyn.plus.net) has joined #debian
+Aug 26 12:54:58 ---	Rentaro is now known as notreventlov
+Aug 26 12:55:31 <--	Kevlar_Noir has quit (Quit: Konversation terminated!)
+Aug 26 12:56:37 ---	notreventlov is now known as Satomi
+Aug 26 12:58:06 <--	jack_rabbit has quit (Ping timeout: 264 seconds)
+Aug 26 12:59:08 -->	mandeep (mandeep@gateway/vpn/privateinternetaccess/mandeepb) has joined #debian
+Aug 26 12:59:45 <--	zerotech has quit (Quit: zerotech)
+Aug 26 13:00:46 -->	zerotech (~zerotech@BSN-143-56-16.dynamic.siol.net) has joined #debian
+Aug 26 13:02:02 -->	aloo_shu (~atomic@195.135.248.163) has joined #debian
+Aug 26 13:02:52 -->	_ymir (~Chance@1.v.chancemcarey.com) has joined #debian
+Aug 26 13:03:14 -->	peedabee (~peedabee@unaffiliated/peedabee) has joined #debian
+Aug 26 13:03:16 <--	_ymir has quit (Client Quit)
+Aug 26 13:03:33 -->	nuuuciano (~luuuciano@unaffiliated/luuuciano) has joined #debian
+Aug 26 13:04:01 ---	debhelper sets channel limit to 1093
+Aug 26 13:05:13 -->	mdonkers (~mdo@2001:984:4f5:1:24fb:7d9:1845:245b) has joined #debian
+Aug 26 13:05:25 -->	_ymir (~Chance@1.v.chancemcarey.com) has joined #debian
+Aug 26 13:06:17 -->	Scytale89 (Scytale89@gateway/vpn/privateinternetaccess/scytale89) has joined #debian
+Aug 26 13:07:01 -->	endstille (~endstille@b9168f90.cgn.dg-w.de) has joined #debian
+Aug 26 13:07:16 <--	Scytale89 has quit (Client Quit)
+Aug 26 13:10:20 <--	deicide- has quit (Ping timeout: 244 seconds)
+Aug 26 13:13:15 -->	annadane (~annadane@mtrlpq5302w-lp140-01-69-156-34-87.dsl.bell.ca) has joined #debian
+Aug 26 13:14:20 -->	quipa (~Maxim@host155-153-static.61-79-b.business.telecomitalia.it) has joined #debian
+Aug 26 13:16:12 <--	watchd0g has quit (Ping timeout: 252 seconds)
+Aug 26 13:16:51 ---	aloo_shu is now known as DeepSheep
+Aug 26 19:18:16 <--	bootdisk has quit (Read error: Connection reset by peer)
+Aug 26 19:18:35 -->	bootdisk (~bootdisk@unaffiliated/bootdisk) has joined #debian
+Aug 26 19:18:50 <--	Python1320 has quit (Ping timeout: 260 seconds)
+Aug 26 19:18:52 -->	platvoeten (~platvoete@178-85-122-247.dynamic.upc.nl) has joined #debian
+Aug 26 19:20:31 -->	Python1320 (Python1320@unaffiliated/python1320) has joined #debian
+Aug 26 19:20:38 <--	Haudegen has quit (Remote host closed the connection)
+Aug 26 19:21:26 -->	conta (~Thunderbi@ip-89-177-107-196.net.upcbroadband.cz) has joined #debian
+Aug 26 19:24:36 -->	liske1 (~Thunderbi@cek83.neoplus.adsl.tpnet.pl) has joined #debian
+Aug 26 19:24:53 <--	kek_ has quit (Remote host closed the connection)
+Aug 26 19:25:52 <--	rsx has quit (Quit: rsx)
+Aug 26 19:27:45 <--	inlakin has quit (Ping timeout: 252 seconds)
+Aug 26 19:27:47 <--	arora has quit (Quit: Good night!)
+Aug 26 19:28:44 <--	s8548a has quit (Read error: Connection reset by peer)
+Aug 26 19:32:31 <--	lord_daemon has quit ()

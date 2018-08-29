@@ -1,0 +1,39 @@
+{
+   "checksum": "bc28a78a029baa9547b61e674084f2c4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13179784905609511",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13180016679735284"
+            },
+            "name": "AngularCrud",
+            "type": "url",
+            "url": "http://localhost:4200/"
+         } ],
+         "date_added": "13179784805290422",
+         "date_modified": "13179784905609511",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13179784805290425",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13179784805290426",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

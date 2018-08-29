@@ -1,0 +1,12 @@
+T 1535301592 -10-11>	You are now talking on 11#debian
+T 1535301592 -10-11-	Topic for 11#debian is 11Debian Stretch: /msg dpkg stretch ; /msg dpkg  9.5 ; /msg dpkg jessie->stretch; /msg dpkg install stretch | Oldstable: Debian Jessie /msg dpkg jessie ; /msg dpkg 8.11 | NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic | unstable: #debian-next | chanlogs: /msg dpkg irclog
+T 1535301592 -10-11-	Topic for 11#debian set by 11babilen!~babilen@babilen.user.oftc.net at 11Tue Jul 17 08:25:43 2018
+T 1535301592 12-13ChanServ12-	[#debian] Welcome to #debian! Please see /topic for current information. This channel may be publicly logged. NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic
+T 1535301829 -10-11>	gargaml 14(10~js@AClermont-Ferrand-156-1-2-132.w82-122.abo.wanadoo.fr14) has joined #debian
+T 1535302186 <10-11-	KindOne has quit 14(Remote host closed the connection14)
+T 1535302379 <10-11-	pavlushka has quit 14(Ping timeout: 480 seconds14)
+T 1535303598 -10-11>	annadane 14(10~annadane@mtrlpq5302w-lp140-01-69-156-34-87.dsl.bell.ca14) has joined #debian
+T 1535303854 -10-11>	pavlushka 14(10~pavlushka@00021abb.user.oftc.net14) has joined #debian
+T 1535304680 2<dragon122>	hello
+T 1535304691 2<dragon122>	i want to create discussion group
+T 1535304728 2<dragon122>	sorry wrong channel :P

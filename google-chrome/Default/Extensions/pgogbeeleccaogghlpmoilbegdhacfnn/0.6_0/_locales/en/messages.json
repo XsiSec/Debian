@@ -1,0 +1,53 @@
+{
+   "autoLogin": {
+      "message": "Autologin from the desktop client"
+   },
+   "blockLink": {
+      "message": "Whitelist"
+   },
+   "blockMessage": {
+      "message": "If you'd like, you can whitelist the page"
+   },
+   "blockTitle": {
+      "message": "This page was blocked"
+   },
+   "closedClientMessage": {
+      "message": "The desktop client is off"
+   },
+   "closedClientTitle": {
+      "message": "Warning"
+   },
+   "extensionDescription": {
+      "message": "The extension is the perfect complement to OVPN. Block ads & trackers and require a VPN connection in order to visit certain domains"
+   },
+   "extensionTitle": {
+      "message": "OVPN.com"
+   },
+   "forceLink": {
+      "message": "Retry"
+   },
+   "forceMessageEnd": {
+      "message": "you must either connect to OVPN or allow the website"
+   },
+   "forceMessageMiddle": {
+      "message": "In order to visit"
+   },
+   "forceMessageStart": {
+      "message": "You have chosen to force VPN usage on this domain."
+   },
+   "forceTitle": {
+      "message": "Website blocked"
+   },
+   "notificationDefaultTitle": {
+      "message": "Notification"
+   },
+   "resync": {
+      "message": "Account data was synchronized"
+   },
+   "resyncBlocklist": {
+      "message": "Blocklist was synchronized"
+   },
+   "unforce": {
+      "message": "Allow domain"
+   }
+}

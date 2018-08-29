@@ -1,0 +1,107 @@
+11:16:08 AM.541: Processor: 8 logical cores
+11:16:08 AM.541: Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+11:16:08 AM.541: Physical Memory: 16014MB Total
+11:16:08 AM.541: Kernel Version: Linux 4.9.0-8-amd64
+11:16:08 AM.541: Distribution: "Debian GNU/Linux" "9"
+11:16:08 AM.565: OBS 0.0.1 (linux)
+11:16:08 AM.565: ---------------------------------
+11:16:08 AM.565: ---------------------------------
+11:16:08 AM.565: audio settings reset:
+11:16:08 AM.565: 	samples per sec: 44100
+11:16:08 AM.565: 	speakers:        1
+11:16:08 AM.618: OpenGL version: 3.2.0 NVIDIA 384.130
+11:16:08 AM.618: 
+11:16:08 AM.625: ---------------------------------
+11:16:08 AM.625: video settings reset:
+11:16:08 AM.625: 	base resolution:   1920x1080
+11:16:08 AM.625: 	output resolution: 1920x1080
+11:16:08 AM.625: 	fps:               60/1
+11:16:08 AM.625: 	format:            NV12
+11:16:08 AM.625: ---------------------------------
+11:16:08 AM.636: No blackmagic support
+11:16:08 AM.644: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+11:16:08 AM.644: 
+11:16:08 AM.665: VLC found, VLC video source enabled
+11:16:08 AM.665: ---------------------------------
+11:16:08 AM.665:   Loaded Modules:
+11:16:08 AM.665:     vlc-video.so
+11:16:08 AM.665:     text-freetype2.so
+11:16:08 AM.665:     rtmp-services.so
+11:16:08 AM.665:     obs-x264.so
+11:16:08 AM.665:     obs-transitions.so
+11:16:08 AM.665:     obs-outputs.so
+11:16:08 AM.665:     obs-filters.so
+11:16:08 AM.665:     obs-ffmpeg.so
+11:16:08 AM.665:     linux-v4l2.so
+11:16:08 AM.665:     linux-pulseaudio.so
+11:16:08 AM.665:     linux-jack.so
+11:16:08 AM.665:     linux-decklink.so
+11:16:08 AM.665:     linux-capture.so
+11:16:08 AM.665:     linux-alsa.so
+11:16:08 AM.665:     image-source.so
+11:16:08 AM.665: ==== Startup complete ===============================================
+11:16:08 AM.667: All scene data cleared
+11:16:08 AM.667: ------------------------------------------------
+11:16:08 AM.671: pulse-input: Server name: 'pulseaudio 10.0'
+11:16:08 AM.671: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+11:16:08 AM.671: pulse-input: Started recording from 'combined.monitor'
+11:16:08 AM.694: pulse-input: Server name: 'pulseaudio 10.0'
+11:16:08 AM.702: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+11:16:08 AM.702: pulse-input: Started recording from 'alsa_input.usb-Kingston_HyperX_7.1_Audio_00000000-00.analog-stereo'
+11:16:08 AM.729: pulse-input: Server name: 'pulseaudio 10.0'
+11:16:08 AM.741: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+11:16:08 AM.741: pulse-input: Started recording from 'alsa_input.usb-Kingston_HyperX_7.1_Audio_00000000-00.analog-stereo'
+11:16:08 AM.788: xshm-input: Geometry 1920x1080 @ 1920,0
+11:16:08 AM.819: Switched to scene 'CTF'
+11:16:08 AM.819: ------------------------------------------------
+11:16:08 AM.819: Loaded scenes:
+11:16:08 AM.819: - scene 'Scene':
+11:16:08 AM.819:     - source: 'Dev_Screen' (xshm_input)
+11:16:08 AM.819:     - source: 'VSCode' (xcomposite_input)
+11:16:08 AM.819:     - source: 'Browser' (xcomposite_input)
+11:16:08 AM.819:     - source: 'Browser2' (xcomposite_input)
+11:16:08 AM.819:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+11:16:08 AM.819: - scene 'Deskop_Capture':
+11:16:08 AM.819:     - source: 'Dev_Screen' (xshm_input)
+11:16:08 AM.819:     - source: 'Browser' (xcomposite_input)
+11:16:08 AM.819: - scene 'CTF':
+11:16:08 AM.819:     - source: 'Dev_Screen' (xshm_input)
+11:16:08 AM.819: ------------------------------------------------
+11:16:09 AM.327: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+11:16:14 AM.705: User switched to scene 'Deskop_Capture'
+11:16:19 AM.602: User switched to scene 'CTF'
+11:16:20 AM.082: User switched to scene 'Deskop_Capture'
+11:17:04 AM.194: Settings changed (stream 1)
+11:17:04 AM.194: ------------------------------------------------
+11:17:08 AM.750: ---------------------------------
+11:17:08 AM.750: [x264 encoder: 'streaming_h264'] preset: veryfast
+11:17:08 AM.757: [x264 encoder: 'streaming_h264'] settings:
+11:17:08 AM.757: 	rate_control: CBR
+11:17:08 AM.757: 	bitrate:      2500
+11:17:08 AM.757: 	buffer size:  2500
+11:17:08 AM.757: 	crf:          0
+11:17:08 AM.757: 	fps_num:      60
+11:17:08 AM.757: 	fps_den:      1
+11:17:08 AM.757: 	width:        1920
+11:17:08 AM.757: 	height:       1080
+11:17:08 AM.757: 	keyint:       250
+11:17:08 AM.757: 	vfr:          off
+11:17:08 AM.757: 
+11:17:08 AM.769: ---------------------------------
+11:17:08 AM.769: [FFmpeg aac encoder: 'Track1'] bitrate: 96, channels: 1
+11:17:08 AM.773: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-lhr.twitch.tv/app...
+11:17:13 AM.063: [rtmp stream: 'adv_stream'] Connection to rtmp://live-lhr.twitch.tv/app successful
+11:17:13 AM.064: ==== Streaming Start ===============================================
+12:39:55 PM.825: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds
+04:01:11 PM.779: [rtmp stream: 'adv_stream'] User stopped the stream
+04:01:11 PM.780: Output 'adv_stream': stopping
+04:01:11 PM.780: Output 'adv_stream': Total encoded frames: 1022581
+04:01:11 PM.780: Output 'adv_stream': Total drawn frames: 1022581
+04:01:11 PM.780: Output 'adv_stream': Number of skipped frames due to encoding lag: 130 (0.0%)
+04:01:11 PM.780: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 60 (0.0%)
+04:01:11 PM.780: Output 'adv_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 72 (0.0%)
+04:01:11 PM.780: ==== Streaming Stop ================================================
+04:01:13 PM.114: ==== Shutting down ==================================================
+04:01:13 PM.117: Switched to scene '(null)'
+04:01:13 PM.133: X Error: BadWindow (invalid Window parameter)
+04:01:13 PM.133: X Error: BadWindow (invalid Window parameter)

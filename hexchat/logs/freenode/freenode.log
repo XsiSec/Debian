@@ -1,0 +1,180 @@
+**** BEGIN LOGGING AT Sun Aug 26 12:37:55 2018
+
+Aug 26 12:37:55 ---	*** Looking up your hostname...
+Aug 26 12:37:55 ---	*** Checking Ident
+Aug 26 12:37:55 ---	*** No Ident response
+Aug 26 12:37:55 ---	*** Found your hostname
+Aug 26 12:37:55 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 26 12:37:55 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Aug 26 12:37:56 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Sun Aug 26 12:37:56 2018
+
+**** BEGIN LOGGING AT Sun Aug 26 12:37:56 2018
+
+Aug 26 12:37:56 ---	Welcome to the freenode Internet Relay Chat Network xsisec
+Aug 26 12:37:56 ---	Your host is tolkien.freenode.net[71.11.84.232/6697], running version ircd-seven-1.1.7
+Aug 26 12:37:56 ---	This server was created Tue Aug 21 2018 at 19:46:19 UTC
+Aug 26 12:37:56 ---	tolkien.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 26 12:37:56 ---	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 26 12:37:56 ---	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+Aug 26 12:37:56 ---	WHOX ETRACE CPRIVMSG CNOTICE :are supported by this server
+Aug 26 12:37:56 ---	There are 121 users and 83268 invisible on 33 servers
+Aug 26 12:37:56 ---	28 :IRC Operators online
+Aug 26 12:37:56 ---	34 :unknown connection(s)
+Aug 26 12:37:56 ---	44760 :channels formed
+Aug 26 12:37:56 ---	I have 4369 clients and 1 servers
+Aug 26 12:37:56 ---	4369 4387 :Current local users 4369, max 4387
+Aug 26 12:37:56 ---	83389 88266 :Current global users 83389, max 88266
+Aug 26 12:37:56 ---	Highest connection count: 4388 (4387 clients) (66107 connections received)
+Aug 26 12:37:56 ---	- tolkien.freenode.net Message of the Day - 
+Aug 26 12:37:56 ---	- Welcome to tolkien.freenode.net in Sanford, NC, US. Thanks to
+Aug 26 12:37:56 ---	- https://travelingmailbox.com/ for sponsoring this server
+Aug 26 12:37:56 ---	- Welcome to freenode - supporting the free and open source
+Aug 26 12:37:56 ---	- software communities since 1998.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- By connecting to freenode you indicate that you have read and
+Aug 26 12:37:56 ---	- accept our policies and guidelines as set out on https://freenode.net
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- In the event that you observe behaviour that contravenes our policies,
+Aug 26 12:37:56 ---	- please notify a volunteer staff member via private message, or send us an
+Aug 26 12:37:56 ---	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 26 12:37:56 ---	- situation within a reasonable period of time, and we may request further
+Aug 26 12:37:56 ---	- information or, as appropriate, involve other parties such as channel operators 
+Aug 26 12:37:56 ---	- Group Contacts representing an on-topic group.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- freenode runs an open proxy scanner.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- If you are looking for assistance, you will be able to find a list of
+Aug 26 12:37:56 ---	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 26 12:37:56 ---	- message any of us at any time. Please note that freenode predominantly
+Aug 26 12:37:56 ---	- provides assistance via private message, and while we have a network
+Aug 26 12:37:56 ---	- channel the primary venue for support requests is via private message to
+Aug 26 12:37:56 ---	- a member of the volunteer staff team.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 26 12:37:56 ---	- the project, or the communities that we host. The majority of such notices
+Aug 26 12:37:56 ---	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 26 12:37:56 ---	- do not miss them. Important messages relating to the freenode project, including
+Aug 26 12:37:56 ---	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 26 12:37:56 ---	- global notices.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- Representing an on-topic project? Don't forget to register, more information
+Aug 26 12:37:56 ---	- can be found on the https://freenode.net website under "Group Registration".
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- freenode organises an annual conference, and we would like to extend our
+Aug 26 12:37:56 ---	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 26 12:37:56 ---	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 26 12:37:56 ---	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 26 12:37:56 ---	- network going for close to two decades.
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 26 12:37:56 ---	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 26 12:37:56 ---	- you are interested in sponsoring this event, please send an e-mail to
+Aug 26 12:37:56 ---	- sponsor@freenode.live
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	- Thank you for using freenode!
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	-  
+Aug 26 12:37:56 ---	End of /MOTD command.
+Aug 26 12:37:56 ---	xsisec sets mode +R xsisec
+Aug 26 12:37:56 ---	xsisec sets mode +Z xsisec
+Aug 26 12:37:56 ---	xsisec sets mode +i xsisec
+Aug 26 12:37:56 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Aug 26 12:37:56 ---	Received a CTCP VERSION from freenode-connect
+Aug 26 12:37:56 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 26 12:38:02 ---	#debian :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+Aug 26 12:38:02 -NickServ-	You are now identified for XsiSec.
+**** ENDING LOGGING AT Sun Aug 26 12:38:34 2018
+
+**** BEGIN LOGGING AT Sun Aug 26 12:38:34 2018
+
+Aug 26 12:39:07 Perl interface unloaded
+Aug 26 12:39:07 Sysinfo plugin unloaded
+Aug 26 12:39:07 Checksum plugin unloaded
+**** ENDING LOGGING AT Sun Aug 26 12:39:07 2018
+
+**** BEGIN LOGGING AT Sun Aug 26 12:39:33 2018
+
+Aug 26 12:39:33 ---	Welcome to the freenode Internet Relay Chat Network xsisec
+Aug 26 12:39:33 ---	Your host is asimov.freenode.net[104.200.152.162/6697], running version ircd-seven-1.1.7
+Aug 26 12:39:33 ---	This server was created Thu Aug 23 2018 at 13:32:24 UTC
+Aug 26 12:39:33 ---	asimov.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 26 12:39:33 ---	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 26 12:39:33 ---	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+Aug 26 12:39:33 ---	SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+Aug 26 12:39:33 ---	There are 121 users and 83292 invisible on 33 servers
+Aug 26 12:39:33 ---	28 :IRC Operators online
+Aug 26 12:39:33 ---	24 :unknown connection(s)
+Aug 26 12:39:33 ---	44770 :channels formed
+Aug 26 12:39:33 ---	I have 3978 clients and 1 servers
+Aug 26 12:39:33 ---	3978 3981 :Current local users 3978, max 3981
+Aug 26 12:39:33 ---	83413 86663 :Current global users 83413, max 86663
+Aug 26 12:39:33 ---	Highest connection count: 3982 (3981 clients) (59292 connections received)
+Aug 26 12:39:33 ---	- asimov.freenode.net Message of the Day - 
+Aug 26 12:39:33 ---	- Welcome to asimov.freenode.net in CA, USA!
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- ASIMOV, ISAAC [1920-1992].  One of the brightest stars of the
+Aug 26 12:39:33 ---	- science fiction universe.  Author of I Robot, the
+Aug 26 12:39:33 ---	- Foundation series (which "grew like Topsy"), Pebble in the
+Aug 26 12:39:33 ---	- Sky and hundreds of works of science fact and science
+Aug 26 12:39:33 ---	- fiction.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- Welcome to freenode - supporting the free and open source
+Aug 26 12:39:33 ---	- software communities since 1998.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- By connecting to freenode you indicate that you have read and
+Aug 26 12:39:33 ---	- accept our policies and guidelines as set out on https://freenode.net
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- In the event that you observe behaviour that contravenes our policies,
+Aug 26 12:39:33 ---	- please notify a volunteer staff member via private message, or send us an
+Aug 26 12:39:33 ---	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 26 12:39:33 ---	- situation within a reasonable period of time, and we may request further
+Aug 26 12:39:33 ---	- information or, as appropriate, involve other parties such as channel operators 
+Aug 26 12:39:33 ---	- Group Contacts representing an on-topic group.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- freenode runs an open proxy scanner.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- If you are looking for assistance, you will be able to find a list of
+Aug 26 12:39:33 ---	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 26 12:39:33 ---	- message any of us at any time. Please note that freenode predominantly
+Aug 26 12:39:33 ---	- provides assistance via private message, and while we have a network
+Aug 26 12:39:33 ---	- channel the primary venue for support requests is via private message to
+Aug 26 12:39:33 ---	- a member of the volunteer staff team.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 26 12:39:33 ---	- the project, or the communities that we host. The majority of such notices
+Aug 26 12:39:33 ---	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 26 12:39:33 ---	- do not miss them. Important messages relating to the freenode project, including
+Aug 26 12:39:33 ---	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 26 12:39:33 ---	- global notices.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- Representing an on-topic project? Don't forget to register, more information
+Aug 26 12:39:33 ---	- can be found on the https://freenode.net website under "Group Registration".
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- freenode organises an annual conference, and we would like to extend our
+Aug 26 12:39:33 ---	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 26 12:39:33 ---	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 26 12:39:33 ---	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 26 12:39:33 ---	- network going for close to two decades.
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 26 12:39:33 ---	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 26 12:39:33 ---	- you are interested in sponsoring this event, please send an e-mail to
+Aug 26 12:39:33 ---	- sponsor@freenode.live
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	- Thank you for using freenode!
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	-  
+Aug 26 12:39:33 ---	End of /MOTD command.
+Aug 26 12:39:33 ---	xsisec sets mode +R xsisec
+Aug 26 12:39:33 ---	xsisec sets mode +Z xsisec
+Aug 26 12:39:33 ---	xsisec sets mode +i xsisec
+Aug 26 12:39:34 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Aug 26 12:39:34 ---	Received a CTCP VERSION from freenode-connect
+Aug 26 12:39:35 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 26 12:39:39 ---	#debian :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+Aug 26 12:39:39 -NickServ-	You are now identified for XsiSec.

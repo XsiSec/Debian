@@ -1,0 +1,110 @@
+{
+   "about_add_new_rule": {
+      "message": "Добавить новое правило"
+   },
+   "about_ext_description": {
+      "message": "Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Версия наборов правил для"
+   },
+   "about_title": {
+      "message": "О HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "Версия"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+   },
+   "cancel_he_blocking_network": {
+      "message": "network-based downgrade attacks"
+   },
+   "chrome_add_new_rule": {
+      "message": "Добавить новое правило для этого сайта"
+   },
+   "chrome_add_rule": {
+      "message": "Добавить правило для этого сайта"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Всегда использовать https для этого хоста"
+   },
+   "chrome_experimental_rules": {
+      "message": "Экспериментальные правила"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Может вызвать предупреждения или поломку. Отключено по умолчанию."
+   },
+   "chrome_hide_advanced": {
+      "message": "Скрыть расширенные"
+   },
+   "chrome_host": {
+      "message": "Хост:"
+   },
+   "chrome_redirect_to": {
+      "message": "Перенаправление на"
+   },
+   "chrome_regex": {
+      "message": "Соответствие regex"
+   },
+   "chrome_rule_name": {
+      "message": "Имя правила"
+   },
+   "chrome_show_advanced": {
+      "message": "Показать расширенные"
+   },
+   "chrome_stable_rules": {
+      "message": "Стабильные правила"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Принудительное шифрование на этих сайтах:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Отмена"
+   },
+   "menu_blockUnencryptedRequests": {
+      "message": "Блокировать все незашифрованные запросы"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Поддержать EFF"
+   },
+   "menu_globalEnable": {
+      "message": "Включить HTTPS Everywhere"
+   },
+   "menu_observatory": {
+      "message": "Настройки SSL Observatory"
+   },
+   "menu_showCounter": {
+      "message": "Показывать счётчик"
+   },
+   "menu_viewAllRules": {
+      "message": "Посмотреть все правила"
+   },
+   "options_advancedSettings": {
+      "message": "Дополнительные настройки"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Автоматическое обновление наборов правил"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Включить наборы правил для смешанного содержимого"
+   },
+   "options_generalSettings": {
+      "message": "Общие настройки"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Показывать вкладку инструментов разработчика"
+   },
+   "prefs_export_settings": {
+      "message": "Экспорт настроек"
+   },
+   "prefs_reset_defaults": {
+      "message": "По умолчанию"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Это действие сбросит каждый набор правил в состояние по умолчанию. Продолжить?"
+   }
+}

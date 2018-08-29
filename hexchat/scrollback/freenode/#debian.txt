@@ -1,0 +1,66 @@
+T 1535301530 -10-11>	You are now talking on 11#debian
+T 1535301530 -10-11-	Topic for 11#debian is 11Debian Stretch: /msg dpkg stretch ; /msg dpkg 9.5 ; /msg dpkg jessie->stretch ; /msg dpkg install stretch | Oldstable: Debian Jessie /msg dpkg jessie ; /msg dpkg 8.11 | NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic | testing, unstable: #debian-next @ irc.oftc.net | chanlogs: /msg dpkg irclog
+T 1535301530 -10-11-	Topic for 11#debian set by 11jelly!jelly@pdpc/supporter/active/jelly at 11Thu Jul 19 07:07:38 2018
+T 1535301531 12-13ChanServ12-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+T 1535301531 22*	Channel 22#debian url: 24http://www.debian.org
+T 1535301547 FiSHLiM plugin unloaded
+T 1535301547 Python interface unloaded
+T 1535301597 -10-11>	You are now talking on 11#debian
+T 1535301597 -10-11-	Topic for 11#debian is 11Debian Stretch: /msg dpkg stretch ; /msg dpkg 9.5 ; /msg dpkg jessie->stretch ; /msg dpkg install stretch | Oldstable: Debian Jessie /msg dpkg jessie ; /msg dpkg 8.11 | NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic | testing, unstable: #debian-next @ irc.oftc.net | chanlogs: /msg dpkg irclog
+T 1535301597 -10-11-	Topic for 11#debian set by 11jelly!jelly@pdpc/supporter/active/jelly at 11Thu Jul 19 07:07:38 2018
+T 1535301598 12-13ChanServ12-	[#debian] Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+T 1535301598 22*	Channel 22#debian url: 24http://www.debian.org
+T 1535301658 <10-11-	brontosaurusrex has quit 14(Quit: brontosaurusrex14)
+T 1535301715 <10-11-	timahvo1 has quit 14(Ping timeout: 244 seconds14)
+T 1535301773 <10-11-	OxFEEDBACC has quit 14(Remote host closed the connection14)
+T 1535301778 -10-11>	timahvo1 14(10~rogue@41.90.60.21414) has joined #debian
+T 1535301802 -10-11>	OxFEEDBACC 14(10~what@unaffiliated/oxfeedbacc14) has joined #debian
+T 1535302010 <10-11-	Zvmdyv has quit 14(Remote host closed the connection14)
+T 1535302023 -10-11>	ntd 14(10~ntd@gateway/tor-sasl/ntd14) has joined #debian
+T 1535302073 <10-11-	timahvo1 has quit 14(Ping timeout: 268 seconds14)
+T 1535302097 -10-11>	timahvo1 14(10~rogue@41.90.60.21414) has joined #debian
+T 1535302176 -10-11>	ChmEarl 14(10~chmearl@unaffiliated/prymar5614) has joined #debian
+T 1535302177 -10-11>	Gerowen 14(10~Gerowen@172.97.28.5614) has joined #debian
+T 1535302385 <10-11-	vbutnaru has quit 14(Quit: Leaving14)
+T 1535302406 <10-11-	Tarrasquero has quit 14(Ping timeout: 268 seconds14)
+T 1535302443 -10-11>	Tarrasquero 14(10~Tarrasque@unaffiliated/tarrasquero14) has joined #debian
+T 1535302462 <10-11-	nix64bit has quit 14(Quit: nix64bit14)
+T 1535302465 -10-11>	inlakin 14(10~root@185.128.25.5214) has joined #debian
+T 1535302487 -10-11>	Mr-Potter 14(10~Mr-Potter@204.157.7.51.dyn.plus.net14) has joined #debian
+T 1535302498 -10-11-	Rentaro is now known as notreventlov
+T 1535302531 <10-11-	Kevlar_Noir has quit 14(Quit: Konversation terminated!14)
+T 1535302597 -10-11-	notreventlov is now known as Satomi
+T 1535302686 <10-11-	jack_rabbit has quit 14(Ping timeout: 264 seconds14)
+T 1535302748 -10-11>	mandeep 14(10mandeep@gateway/vpn/privateinternetaccess/mandeepb14) has joined #debian
+T 1535302785 <10-11-	zerotech has quit 14(Quit: zerotech14)
+T 1535302846 -10-11>	zerotech 14(10~zerotech@BSN-143-56-16.dynamic.siol.net14) has joined #debian
+T 1535302922 -10-11>	aloo_shu 14(10~atomic@195.135.248.16314) has joined #debian
+T 1535302972 -10-11>	_ymir 14(10~Chance@1.v.chancemcarey.com14) has joined #debian
+T 1535302994 -10-11>	peedabee 14(10~peedabee@unaffiliated/peedabee14) has joined #debian
+T 1535302996 <10-11-	_ymir has quit 14(Client Quit14)
+T 1535303013 -10-11>	nuuuciano 14(10~luuuciano@unaffiliated/luuuciano14) has joined #debian
+T 1535303041 -10-11-	debhelper sets channel limit to 1093
+T 1535303113 -10-11>	mdonkers 14(10~mdo@2001:984:4f5:1:24fb:7d9:1845:245b14) has joined #debian
+T 1535303125 -10-11>	_ymir 14(10~Chance@1.v.chancemcarey.com14) has joined #debian
+T 1535303177 -10-11>	Scytale89 14(10Scytale89@gateway/vpn/privateinternetaccess/scytale8914) has joined #debian
+T 1535303221 -10-11>	endstille 14(10~endstille@b9168f90.cgn.dg-w.de14) has joined #debian
+T 1535303236 <10-11-	Scytale89 has quit 14(Client Quit14)
+T 1535303420 <10-11-	deicide- has quit 14(Ping timeout: 244 seconds14)
+T 1535303595 -10-11>	annadane 14(10~annadane@mtrlpq5302w-lp140-01-69-156-34-87.dsl.bell.ca14) has joined #debian
+T 1535303660 -10-11>	quipa 14(10~Maxim@host155-153-static.61-79-b.business.telecomitalia.it14) has joined #debian
+T 1535303772 <10-11-	watchd0g has quit 14(Ping timeout: 252 seconds14)
+T 1535303811 -10-11-	aloo_shu is now known as DeepSheep
+T 1535303896 <10-11-	bootdisk has quit 14(Read error: Connection reset by peer14)
+T 1535303915 -10-11>	bootdisk 14(10~bootdisk@unaffiliated/bootdisk14) has joined #debian
+T 1535303930 <10-11-	Python1320 has quit 14(Ping timeout: 260 seconds14)
+T 1535303932 -10-11>	platvoeten 14(10~platvoete@178-85-122-247.dynamic.upc.nl14) has joined #debian
+T 1535304031 -10-11>	Python1320 14(10Python1320@unaffiliated/python132014) has joined #debian
+T 1535304038 <10-11-	Haudegen has quit 14(Remote host closed the connection14)
+T 1535304086 -10-11>	conta 14(10~Thunderbi@ip-89-177-107-196.net.upcbroadband.cz14) has joined #debian
+T 1535304276 -10-11>	liske1 14(10~Thunderbi@cek83.neoplus.adsl.tpnet.pl14) has joined #debian
+T 1535304293 <10-11-	kek_ has quit 14(Remote host closed the connection14)
+T 1535304352 <10-11-	rsx has quit 14(Quit: rsx14)
+T 1535304465 <10-11-	inlakin has quit 14(Ping timeout: 252 seconds14)
+T 1535304467 <10-11-	arora has quit 14(Quit: Good night!14)
+T 1535304524 <10-11-	s8548a has quit 14(Read error: Connection reset by peer14)
+T 1535304751 <10-11-	lord_daemon has quit 14(14)

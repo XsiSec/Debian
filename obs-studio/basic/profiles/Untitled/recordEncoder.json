@@ -1,0 +1,5 @@
+{
+    "crf": 15,
+    "preset": "superfast",
+    "rate_control": "CRF"
+}

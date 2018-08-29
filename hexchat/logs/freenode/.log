@@ -1,0 +1,16 @@
+**** BEGIN LOGGING AT Sun Aug 26 12:37:54 2018
+
+Aug 26 12:37:54 ---	Connecting to chat.freenode.net (71.11.84.232) port 6697..
+Aug 26 12:37:55 *	* Certification info:
+Aug 26 12:37:55 *	  Subject:
+Aug 26 12:37:55 *	    CN=tolkien.freenode.net
+Aug 26 12:37:55 *	  Issuer:
+Aug 26 12:37:55 *	    C=US
+Aug 26 12:37:55 *	    O=Let's Encrypt
+Aug 26 12:37:55 *	    CN=Let's Encrypt Authority X3
+Aug 26 12:37:55 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 26 12:37:55 *	  Sign algorithm sha256WithRSAEncryption
+Aug 26 12:37:55 *	  Valid since Aug 20 05:04:01 2018 GM to Nov 18 05:04:01 2018 GM
+Aug 26 12:37:55 *	* Cipher info:
+Aug 26 12:37:55 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 26 12:37:55 ---	Connected. Now logging in..

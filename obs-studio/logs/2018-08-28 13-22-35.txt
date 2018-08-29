@@ -1,0 +1,96 @@
+01:22:35 PM.885: Processor: 8 logical cores
+01:22:35 PM.885: Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+01:22:35 PM.885: Physical Memory: 16014MB Total
+01:22:35 PM.885: Kernel Version: Linux 4.9.0-8-amd64
+01:22:35 PM.885: Distribution: "Debian GNU/Linux" "9"
+01:22:35 PM.904: OBS 0.0.1 (linux)
+01:22:35 PM.904: ---------------------------------
+01:22:35 PM.904: ---------------------------------
+01:22:35 PM.904: audio settings reset:
+01:22:35 PM.904: 	samples per sec: 44100
+01:22:35 PM.904: 	speakers:        2
+01:22:35 PM.952: OpenGL version: 3.2.0 NVIDIA 384.130
+01:22:35 PM.952: 
+01:22:35 PM.992: ---------------------------------
+01:22:35 PM.992: video settings reset:
+01:22:35 PM.992: 	base resolution:   1920x1080
+01:22:35 PM.992: 	output resolution: 1920x1080
+01:22:35 PM.992: 	fps:               60/1
+01:22:35 PM.992: 	format:            NV12
+01:22:35 PM.993: ---------------------------------
+01:22:36 PM.006: No blackmagic support
+01:22:36 PM.024: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:22:36 PM.024: 
+01:22:36 PM.051: VLC found, VLC video source enabled
+01:22:36 PM.051: ---------------------------------
+01:22:36 PM.051:   Loaded Modules:
+01:22:36 PM.051:     vlc-video.so
+01:22:36 PM.051:     text-freetype2.so
+01:22:36 PM.052:     rtmp-services.so
+01:22:36 PM.052:     obs-x264.so
+01:22:36 PM.052:     obs-transitions.so
+01:22:36 PM.052:     obs-outputs.so
+01:22:36 PM.052:     obs-filters.so
+01:22:36 PM.052:     obs-ffmpeg.so
+01:22:36 PM.052:     linux-v4l2.so
+01:22:36 PM.052:     linux-pulseaudio.so
+01:22:36 PM.052:     linux-jack.so
+01:22:36 PM.052:     linux-decklink.so
+01:22:36 PM.052:     linux-capture.so
+01:22:36 PM.052:     linux-alsa.so
+01:22:36 PM.052:     image-source.so
+01:22:36 PM.052: ==== Startup complete ===============================================
+01:22:36 PM.057: All scene data cleared
+01:22:36 PM.057: ------------------------------------------------
+01:22:36 PM.066: pulse-input: Server name: 'pulseaudio 10.0'
+01:22:36 PM.066: pulse-input: Sample spec is not valid
+01:22:36 PM.067: Failed to create source 'Desktop Audio'!
+01:22:36 PM.071: pulse-input: Server name: 'pulseaudio 10.0'
+01:22:36 PM.071: pulse-input: Sample spec is not valid
+01:22:36 PM.072: Failed to create source 'Mic/Aux'!
+01:22:36 PM.076: pulse-input: Server name: 'pulseaudio 10.0'
+01:22:36 PM.076: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+01:22:36 PM.076: pulse-input: Started recording from 'jack_in'
+01:22:36 PM.128: xshm-input: Geometry 1920x1080 @ 1920,0
+01:22:36 PM.130: xshm-input: Geometry 1920x1080 @ 1920,0
+01:22:36 PM.130: pulse-input: Server name: 'pulseaudio 10.0'
+01:22:36 PM.130: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+01:22:36 PM.130: pulse-input: Started recording from 'jack_in'
+01:22:36 PM.133: Switched to scene 'Deskop_Capture'
+01:22:36 PM.133: ------------------------------------------------
+01:22:36 PM.133: Loaded scenes:
+01:22:36 PM.133: - scene 'Scene':
+01:22:36 PM.133:     - source: 'Dev_Screen' (xshm_input)
+01:22:36 PM.133:     - source: 'VSCode' (xcomposite_input)
+01:22:36 PM.133:     - source: 'Browser' (xcomposite_input)
+01:22:36 PM.133:     - source: 'Browser2' (xcomposite_input)
+01:22:36 PM.133:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+01:22:36 PM.133: - scene 'Deskop_Capture':
+01:22:36 PM.134:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01:22:36 PM.134:     - source: 'Browser' (xcomposite_input)
+01:22:36 PM.134:     - source: 'Audio Input Capture (PulseAudio) 1' (pulse_input_capture)
+01:22:36 PM.134: ------------------------------------------------
+01:22:36 PM.644: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+01:23:15 PM.724: User Removed source 'Audio Input Capture (PulseAudio) 1' (pulse_input_capture) from scene 'Deskop_Capture'
+01:23:15 PM.735: pulse-input: Stopped recording from 'jack_in'
+01:23:15 PM.735: pulse-input: Got 3714 packets with 1901568 frames
+01:23:20 PM.990: User added source 'JACK Input Client' (jack_output_capture) to scene 'Deskop_Capture'
+01:23:21 PM.028: adding 69 milliseconds of audio buffering, total audio buffering is now 116 milliseconds
+01:23:40 PM.809: User Removed source 'JACK Input Client' (jack_output_capture) from scene 'Deskop_Capture'
+01:23:43 PM.517: User added source 'JACK Input Client' (jack_output_capture) to scene 'Deskop_Capture'
+01:24:58 PM.807: User Removed source 'JACK Input Client' (jack_output_capture) from scene 'Deskop_Capture'
+01:25:25 PM.383: pulse-input: Server name: 'pulseaudio 10.0'
+01:25:25 PM.384: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+01:25:25 PM.384: pulse-input: Started recording from 'jack_out.monitor'
+01:25:25 PM.384: Settings changed (audio)
+01:25:25 PM.384: ------------------------------------------------
+01:25:45 PM.704: pulse-input: Server name: 'pulseaudio 10.0'
+01:25:45 PM.704: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+01:25:45 PM.704: pulse-input: Started recording from 'jack_out.equalizer.monitor'
+01:25:45 PM.704: Settings changed (audio)
+01:25:45 PM.704: ------------------------------------------------
+01:25:45 PM.707: pulse-input: Stopped recording from 'jack_out.monitor'
+01:25:45 PM.707: pulse-input: Got 1854 packets with 975872 frames
+01:25:46 PM.565: adding 23 milliseconds of audio buffering, total audio buffering is now 139 milliseconds
+01:25:47 PM.075: adding 23 milliseconds of audio buffering, total audio buffering is now 162 milliseconds
+01:28:03 PM.854: adding 23 milliseconds of audio buffering, total audio buffering is now 185 milliseconds

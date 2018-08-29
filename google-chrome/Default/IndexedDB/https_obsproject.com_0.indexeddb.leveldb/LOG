@@ -1,0 +1,18 @@
+2018/08/28-15:46:52.083 1655 Reusing MANIFEST /home/xsisec/.config/google-chrome/Default/IndexedDB/https_obsproject.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/28-15:46:52.083 1655 Recovering log #213
+2018/08/28-15:46:52.083 1655 Reusing old log /home/xsisec/.config/google-chrome/Default/IndexedDB/https_obsproject.com_0.indexeddb.leveldb/000213.log 
+2018/08/28-15:46:54.868 3278 Current memtable full; waiting...
+2018/08/28-15:46:54.868 4403 Level-0 table #218: started
+2018/08/28-15:46:54.869 4403 Level-0 table #218: 410 bytes OK
+2018/08/28-15:46:54.870 4403 Delete type=0 #213
+2018/08/28-15:46:54.870 4403 Level-0 table #220: started
+2018/08/28-15:46:54.870 4403 Level-0 table #220: 0 bytes OK
+2018/08/28-15:46:54.872 4403 Delete type=0 #217
+2018/08/28-15:46:54.872 4403 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at '\x00-\x00\x00\x05' @ 421 : 1
+2018/08/28-15:46:54.872 4403 Compacting 1@0 + 1@1 files
+2018/08/28-15:46:54.873 4403 Generated table #221@0: 56 keys, 1591 bytes
+2018/08/28-15:46:54.873 4403 Compacted 1@0 + 1@1 files => 1591 bytes
+2018/08/28-15:46:54.876 4403 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/28-15:46:54.876 4403 Delete type=2 #218
+2018/08/28-15:46:54.876 4403 Delete type=2 #215
+2018/08/28-15:46:54.876 4403 Manual compaction at level-0 from '\x00-\x00\x00\x05' @ 421 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)

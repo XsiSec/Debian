@@ -1,0 +1,12 @@
+{
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 176,
+    "y": 162,
+    "width": 1280,
+    "height": 720
+  },
+  "MINIMIZE_TO_TRAY": true,
+  "enableHardwareAcceleration": false
+}

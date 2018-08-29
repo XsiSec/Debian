@@ -1,0 +1,34 @@
+[2018-08-28 10:57:23.575] [exthost1] [info] extension host started
+[2018-08-28 10:57:23.585] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.585] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-08-28 10:57:23.591] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.591] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-08-28 10:57:23.624] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.624] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-08-28 10:57:23.721] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.721] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-08-28 10:57:23.727] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.727] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-08-28 10:57:23.731] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.731] [exthost1] [info] ExtensionService#loadCommonJSModule /home/xsisec/.vscode/extensions/esbenp.prettier-vscode-1.6.1/out/src/extension
+[2018-08-28 10:57:23.833] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.833] [exthost1] [info] ExtensionService#loadCommonJSModule /home/xsisec/.vscode/extensions/hookyqr.beautify-1.3.2/extension
+[2018-08-28 10:57:23.857] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-08-28 10:57:23.858] [exthost1] [info] ExtensionService#loadCommonJSModule /home/xsisec/.vscode/extensions/pkief.material-icon-theme-3.5.3/out/src/extension
+[2018-08-28 10:57:23.881] [exthost1] [info] eager extensions activated
+[2018-08-28 10:57:29.545] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-08-28 10:57:29.545] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/out/cssMain
+[2018-08-28 10:57:30.988] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-08-28 10:57:30.988] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-08-28 10:57:31.052] [exthost1] [info] ExtensionService#_doActivateExtension hdg.live-html-previewer {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-08-28 10:57:31.052] [exthost1] [info] ExtensionService#loadCommonJSModule /home/xsisec/.vscode/extensions/hdg.live-html-previewer-0.3.0/out/src/extension
+[2018-08-28 10:57:33.342] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-08-28 10:57:33.342] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-08-28 10:57:33.354] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-08-28 10:57:33.354] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-08-28 10:57:36.716] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-28 10:57:36.716] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-08-28 10:57:36.726] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-28 10:57:36.726] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/out/jsonMain
+[2018-08-28 11:21:38.099] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-08-28 11:21:38.099] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main

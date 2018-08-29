@@ -1,0 +1,24 @@
+[settings]
+default-encoding=ISO-8859-1
+enable-developer-extras=true
+javascript-can-open-windows-automatically=true
+enable-site-specific-quirks=true
+enable-javascript=true
+default-charset=ISO-8859-1
+last-window-width=1129
+last-window-height=630
+last-panel-page=3
+last-web-search=2
+last-window-state=MIDORI_WINDOW_MAXIMIZED
+location-entry-search=https://duckduckgo.com/?q=%s
+toolbar-items=TabNew,Back,NextForward,ReloadStop,BookmarkAdd,Location,Search,Trash,CompactMenu
+homepage=http://localhost:4200/
+tabhome=about:dial
+download-folder=/home/xsisec/Downloads
+load-on-startup=MIDORI_STARTUP_HOMEPAGE
+proxy-type=MIDORI_PROXY_NONE
+user-agent=Mozilla/5.0 (X11; Linux) AppleWebKit/538.15 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/538.15 Midori/0.5
+
+[extensions]
+libcolorful-tabs.so=true
+libstatusbar-features.so=true

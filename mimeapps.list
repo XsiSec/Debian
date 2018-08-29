@@ -1,0 +1,11 @@
+[Default Applications]
+application/xml=geany.desktop
+image/jpeg=ristretto.desktop
+image/png=ristretto.desktop
+text/plain=geany.desktop
+
+[Added Associations]
+application/xml=geany.desktop;
+image/jpeg=ristretto.desktop;
+image/png=ristretto.desktop;
+text/plain=geany.desktop;

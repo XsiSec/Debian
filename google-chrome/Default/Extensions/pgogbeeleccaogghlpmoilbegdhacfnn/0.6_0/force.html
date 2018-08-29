@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Not Connected | OVPN</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <a href="/">
+        <div class="logo">
+          <div class="wrapper-img">
+            <img class="logo-img" src="img/logo.png" alt="OVPN logo" title="OVPN">
+          </div>
+        </div>
+      </a>
+      <div>
+        <h1 id="title">Website blocked</h1>
+        <h2>
+          <span class="margined" id="message-start">You have activated the force setting for this domain. Since you aren't connected to OVPN, the request has been blocked. </span>
+          <span id="message-middle">In order to visit </span>
+          <span id="domain">the website</span>
+          <span id="message-end"> you must either connect to OVPN or allow the website</span>
+        </h2>
+        <h2><a id="link" class="review" href="#">Retry</a></h2>
+        <h2><a id="unforce" class="review" href="#">Allow</a></h2>
+      </div>
+    </div>
+    <script src="force.js" charset="utf-8"></script>
+  </body>
+</html>

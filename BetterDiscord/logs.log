@@ -1,0 +1,21 @@
+[INF][30/07/2018 16:30:36] Checking data/cache
+[INF][30/07/2018 16:30:36] Using repository: rauenzi and branch: master
+[INF][30/07/2018 16:30:36] Getting latest hash
+[INF][30/07/2018 16:30:36] Downloading Resource: api.github.com/repos/rauenzi/BetterDiscordApp/commits/master
+[INF][30/07/2018 16:30:36] Hooking dom-ready
+[INF][30/07/2018 16:30:38] Hash: 4aa7884a34b8d66219f2eb0cea6025a012cf9dc6
+[INF][30/07/2018 16:30:38] Getting updater
+[INF][30/07/2018 16:30:38] Downloading Resource: raw.githubusercontent.com/rauenzi/BetterDiscordApp/4aa7884a34b8d66219f2eb0cea6025a012cf9dc6/data/updater.json
+[INF][30/07/2018 16:30:39] Latest Version: 0.2.83
+[INF][30/07/2018 16:30:39] Using CDN: cdn.rawgit.com
+[INF][30/07/2018 16:30:39] Updating ext data
+[INF][30/07/2018 16:30:39] Hooked dom-ready
+[INF][30/07/2018 16:30:39] Loading
+[INF][30/07/2018 16:30:39] Hooking ipc async
+[INF][30/07/2018 16:30:39] Hooked ipc async
+[INF][30/07/2018 16:30:40] Loading Resource (jQuery)
+[INF][30/07/2018 16:30:40] Invalid theme detected Reborn.css
+[INF][30/07/2018 16:30:40] Loading Resource (jQueryCookie)
+[INF][30/07/2018 16:30:40] Loading Resource (Main CSS)
+[INF][30/07/2018 16:30:40] Loading Resource (Main JS)
+[INF][30/07/2018 16:30:40] Starting Up

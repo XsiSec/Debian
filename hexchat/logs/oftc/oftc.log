@@ -1,0 +1,73 @@
+**** BEGIN LOGGING AT Sun Aug 26 12:39:46 2018
+
+Aug 26 12:39:46 ---	*** Looking up your hostname...
+Aug 26 12:39:46 ---	*** Checking Ident
+Aug 26 12:39:46 ---	*** No Ident response
+Aug 26 12:39:46 ---	*** Found your hostname
+Aug 26 12:39:46 *	Capabilities supported: multi-prefix
+Aug 26 12:39:46 *	Capabilities requested: multi-prefix 
+Aug 26 12:39:46 *	Capabilities acknowledged: multi-prefix
+**** ENDING LOGGING AT Sun Aug 26 12:39:46 2018
+
+**** BEGIN LOGGING AT Sun Aug 26 12:39:46 2018
+
+Aug 26 12:39:46 ---	Welcome to the OFTC Internet Relay Chat Network xsisec
+Aug 26 12:39:46 ---	Your host is helix.oftc.net[130.239.18.116/6667], running version hybrid-7.2.2+oftc1.7.3
+Aug 26 12:39:46 ---	This server was created Jun 23 2018 at 19:19:35
+Aug 26 12:39:46 ---	helix.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+Aug 26 12:39:46 ---	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+Aug 26 12:39:46 ---	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+Aug 26 12:39:46 ---	4G4AAAMA4 :your unique ID
+Aug 26 12:39:46 ---	There are 29 users and 12649 invisible on 20 servers
+Aug 26 12:39:46 ---	22 :IRC Operators online
+Aug 26 12:39:46 ---	2589 :channels formed
+Aug 26 12:39:46 ---	I have 2701 clients and 1 servers
+Aug 26 12:39:46 ---	Current local users: 2701  Max: 2815
+Aug 26 12:39:46 ---	Current global users: 12678  Max: 13857
+Aug 26 12:39:46 ---	Highest connection count: 2816 (2815 clients) (15583 connections received)
+Aug 26 12:39:46 ---	- helix.oftc.net Message of the Day - 
+Aug 26 12:39:46 ---	-   O
+Aug 26 12:39:46 ---	-    \   The Open and Free
+Aug 26 12:39:46 ---	-     O
+Aug 26 12:39:46 ---	-    /|  Technology Community
+Aug 26 12:39:46 ---	- O-O O
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- Welcome to OFTC's IRC network.
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- The Open and Free Technology Community was founded at the
+Aug 26 12:39:46 ---	- end of 2001 by a group of experienced members of the Open
+Aug 26 12:39:46 ---	- Source and Free Software communities; it is aimed at
+Aug 26 12:39:46 ---	- providing these communities with better communication,
+Aug 26 12:39:46 ---	- development, and support infrastructure. Our goal is to
+Aug 26 12:39:46 ---	- provide stable services to members of the community in any
+Aug 26 12:39:46 ---	- part of the world, while listening closely to their needs
+Aug 26 12:39:46 ---	- and desires.
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- We are not a general purpose chat platform, but a topical
+Aug 26 12:39:46 ---	- network intent on providing the open source and free
+Aug 26 12:39:46 ---	- software communities a means to cooperate and communicate.
+Aug 26 12:39:46 ---	- As such, illegal and off-topic activity, such as warez
+Aug 26 12:39:46 ---	- trading, may result in being barred from access.
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- OFTC honors your privacy. To operate the network, we store
+Aug 26 12:39:46 ---	- and process information about IRC connections, nicknames,
+Aug 26 12:39:46 ---	- and channels. Our Privacy Policy explains what we do with
+Aug 26 12:39:46 ---	- that data, and what your rights are. By connecting, you
+Aug 26 12:39:46 ---	- accept these terms: https://www.oftc.net/Privacy_Policy/
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- For more information on OFTC, please visit https://www.oftc.net/.
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- If you require assistance, stop by in channel #oftc, or email
+Aug 26 12:39:46 ---	- support@oftc.net with details.
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	- Thanks and enjoy your stay,
+Aug 26 12:39:46 ---	- 
+Aug 26 12:39:46 ---	-         The OFTC team
+Aug 26 12:39:46 ---	End of /MOTD command.
+Aug 26 12:39:46 ---	xsisec sets mode +i xsisec
+Aug 26 12:39:46 -NickServ-	This nickname is registered and protected.  If it is your nickname, you may
+Aug 26 12:39:46 -NickServ-	authenticate yourself to services with the IDENTIFY command.  You are
+Aug 26 12:39:46 -NickServ-	getting this message because you are not on the access list for the
+Aug 26 12:39:46 -NickServ-	xsisec nickname.
+Aug 26 12:39:46 ---	xsisec sets mode +R xsisec
+Aug 26 12:39:46 -NickServ-	You are successfully identified as xsisec.
