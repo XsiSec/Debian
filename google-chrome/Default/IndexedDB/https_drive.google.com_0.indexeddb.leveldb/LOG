@@ -1,6 +1,0 @@
-2018/08/29-16:04:03.648 13942 Reusing MANIFEST /home/xsisec/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/08/29-16:04:03.648 13942 Recovering log #7
-2018/08/29-16:04:03.656 13942 Reusing old log /home/xsisec/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000007.log 
-2018/08/29-16:04:05.023 28645 Level-0 table #10: started
-2018/08/29-16:04:05.030 28645 Level-0 table #10: 650380 bytes OK
-2018/08/29-16:04:05.031 28645 Delete type=0 #7
