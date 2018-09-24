@@ -19,11 +19,11 @@ compton --config ~/.config/compton/compton.conf &
 ~/.fehbg &
 #airdc++ /opt/airdcpp-webclient/airdcppd &
 tint2 -c /home/xsisec/.config/tint2/tint2rc &
-#tint2 &
-pnmixer &
+volti &
 conky -b &
 clipit &
 veracrypt &
 # tint2 monitor 1
 claws-mail &
 #indicator-stickynotes &
+OVPN &

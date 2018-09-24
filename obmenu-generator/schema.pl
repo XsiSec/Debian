@@ -32,16 +32,19 @@ our $SCHEMA = [
 
 
     #          COMMAND                 LABEL              ICON
+    
     {item => ['xdg-open http://', 'Browser',  '/home/xsisec/.config/obmenu-generator/icons/4b333b9f8bfe0d0b92c13c5447ee8d27.png']},
-    {item => ['/usr/local/bin/pcmanfm-dualpane.sh',       'Files', '/home/xsisec/.config/obmenu-generator/icons/7c07be28362b1cfda41fdf27c7df91fa.png']},
+    {item => ['kdocker',       '[Dock]', '/home/xsisec/.config/obmenu-generator/icons/fe47f37ed38f7240adeb5485c395c721.png']},
+    {item => ['pcmanfm',       'Files', '/home/xsisec/.config/obmenu-generator/icons/7c07be28362b1cfda41fdf27c7df91fa.png']},
     {item => ['xfce4-terminal',            'Terminal',     '/home/xsisec/.config/obmenu-generator/icons/2dca12fe7eae45a289c0d23dcb1d8544.png']},
     {item => ['leafpad',            'LeafPad',     '/home/xsisec/.config/obmenu-generator/icons/d7f167483027d1e8e20016c30859bb9a.png']},
     {item => ['virtualbox',            'VirtualBox',     '/home/xsisec/.config/obmenu-generator/icons/60cd4d55308f482b7f3993967420046f.png']},
+    {item => ['vmware',            'Vmware',     '/home/xsisec/.config/obmenu-generator/icons/6a8eefb88287d46d5c0a471a36dd249d.png']},
     {item => ['/opt/airdcpp-webclient/airdcppd',       'AirDC', '/opt/airdcpp-webclient/web-resources/images/AirDCPlusPlus.d2a0895612b6cf69ccdac84947d293e2.png']},
     {item => ['pcmanfm /home/xsisec/.config/',       '[Config]', '/home/xsisec/.config/obmenu-generator/icons/start-hereB.png']},
     {item => ['pcmanfm /home/xsisec/Downloads/',       '[Downloads]', '/home/xsisec/.config/obmenu-generator/icons/network-local.png']},
     {item => ['pcmanfm /media/veracrypt1/Done/',       '[Done]', '/home/xsisec/.config/obmenu-generator/icons/network-local.png']},
-
+    
     
 
     {sep => 'Categories'},
@@ -74,12 +77,17 @@ our $SCHEMA = [
 
     ## Custom advanced settings
     {beg => ['Advanced Settings', 'applications-engineering']},
+    
+
+
+    
 
       # Configuration files
       {item => ['/home/xsisec/.config/cleanssh.sh', 'CleanSSH', '/home/xsisec/.config/obmenu-generator/icons/63af62d6fc07c9f972fc1dd332484a40.png']},
       {item => ['/home/xsisec/.config/JDiskReport.sh', 'JDiskReport', '/home/xsisec/.config/obmenu-generator/icons/gparted.png']},
       {item => ["$editor ~/.conkyrc",              'Conky RC',    'text-x-generic']},
       {item => ["$editor ~/.config/tint2/tint2rc", 'Tint2 Panel', 'text-x-generic']},
+      
 
       # obmenu-generator category
       {beg => ['Obmenu-Generator', 'accessories-text-editor']},
@@ -105,6 +113,9 @@ our $SCHEMA = [
         {item => ['openbox --restart',               'Restart Openbox', 'openbox']},
       {end => undef},
     {end => undef},
+    
+    
+
 
    
     ## The xscreensaver lock command

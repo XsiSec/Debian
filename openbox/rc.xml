@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Divinorum-Revisited</name>
+    <name>Vertex</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -183,6 +183,11 @@
         <command>gmrun</command>
       </action>
     </keybind>
+    <keybind key="A-F1">
+      <action name="Execute">
+        <command>gnome-search-tool</command>
+      </action>
+    </keybind>
     <keybind key="A-F3">
       <action name="Execute">
         <command>xfce4-appfinder</command>
@@ -269,7 +274,7 @@
           <enabled>true</enabled>
           <name>File manager</name>
         </startupnotify>
-        <command>/usr/local/bin/pcmanfm-dualpane.sh </command>
+        <command>/home/xsisec/.config/pcmanfm-dualpane.sh</command>
       </action>
     </keybind>
     <!-- Launch scrot when Print is pressed -->
